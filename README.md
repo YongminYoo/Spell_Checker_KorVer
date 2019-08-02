@@ -55,9 +55,10 @@ Future studies </br>
 
 ## Contribution </br>
 - Peter Novig의 Edit Distance를 한글에 적용 한 첫번째 논문 </br>
-- 한글을 자모 단위로 split 해서 "안녕" 을 2음절로 인식하지 않고 "ㅇㅏㄴㄴㅕㅇ"으로 인식하게 함</br>
+- 이전 연구와 달리 한글을 자모 단위로 split 해서 "안녕" 을 2음절로 인식하지 않고 "ㅇㅏㄴㄴㅕㅇ"으로 인식하게 함</br>
 - Context를 고려하지 않는 Rule base 기반인 Edit Distance의 문제점을 DeepLearning을 이용해 최적의 값을 찾았다.</br>
       - "현대는 ㅈ동차 참 잘만들어"</br>
       - "올해 사법시험이 ㅈ동차 합격했어!"</br>
 - 라는 두 문장을 고쳐야 할 경우, ED의 경우 둘 다 자동차로 고치게 되나 RNN계열의 알고리즘은 windowsize에 따라 앞 뒤 문장을 파악해 최적의 답을 찾을 수 있게 됨.</br>
+- Edit distance 와 RNN의 조합으로 스펠링체커를 만든 첫번째 논문.
 - Edit distance의 숫자가 커지지않거나 RNN의 windowsize가 커지지 않는다면 속도문제도 해결 됨.
