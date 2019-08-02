@@ -1,5 +1,5 @@
 # SpellChecker_KorVer </br>
-Korean Spell Correction program made by YongminYoo who work as Korean NLP researcher. </br>
+Korean Spell Correction program made by YongminYoo who work as Korean NLP researcher. </br></br>
 Copyrightⓒ2019 YongminYoo All rights reserved</br>
 
 
