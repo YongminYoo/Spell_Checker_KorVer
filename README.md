@@ -29,7 +29,8 @@ This spell checker module is Korean Language Version.</br>
 
 ### 4 . Find incorrect word</br>
 4-1. If words isn't exist in dictionary , consider that word is incorrect word.</br>
-4-2. Find candidate word using Peter Novig's idea , Edit distance(ED). In this research we consider ED less than 1.7 (ED < 1.7)</br>
+4-2. Find candidate word using Peter Novig's idea , Edit distance(ED). In this research we consider ED less than 1.7 </br>
+(I will try to find which ED score is effective with optimizing algorithm , It will be included in the next research topic.) </br>
 4-3. The context is identified using the RNN sequence algorithm, and the most appropriate word among the candidate words is selected as the correct word.</br>
 
 
