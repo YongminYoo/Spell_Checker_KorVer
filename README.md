@@ -19,4 +19,5 @@ This spell checker module is Korean Language Version.</br>
 2-2. Make Dictionary which are split by previous work</br>
 
 #### Find incorrect word</br>
-3-1.
+3-1. If words isn't exist in dictionary , consider that word is incorrect word.</br>
+3-2. 
