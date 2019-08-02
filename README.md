@@ -1,4 +1,4 @@
-# Spell_Checker_KorVer </br>
+# SpellChecker_KorVer </br>
 Korean Spell Correction program made by YongminYoo who work as Korean NLP researcher. </br>
 
 
