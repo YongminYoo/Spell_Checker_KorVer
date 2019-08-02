@@ -44,3 +44,6 @@ If you have any questions, please contact me here. (yoong952@gmail.com) </br>
 5-3. Finally, calculate F1 score. </br>
 
 
+# Result </br>
+Our method showed an F1 score of 93.6%. </br>
+Future studies 1) How to deal with actual words that are not in the dictionary? 2) How to overcome RNN series long term dependency error? 3) When using Edit distance, what is the most optimized ED number?
