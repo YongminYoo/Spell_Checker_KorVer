@@ -46,11 +46,11 @@ If you have any questions, please contact me here. (yoong952@gmail.com) </br>
 
 # Result </br>
 제 방법은 93.6%의 정확도를 가집니다. </br>
-후속연구로는 </br>
-1) 실제로 존재하는 단어지만 사전에 등록되지 않은 단어라 오타라고 인식하는 부분을 어떻게 해결 할 것인가?</br> 
-2) RNN의 long term dependency error를 어떻게 해결 할 것인가?</br>
-3) Editdistance를 쓸 때 어떻게 ED의 값을 optimizing 할 것인가?</br>
-4) Edit distance와 RNN에서 hyperameter값이 커 질때 속도문제는 어떻게 해결 할 것인가?</br>
+후속연구로는 
+ - 실제로 존재하는 단어지만 사전에 등록되지 않은 단어라 오타라고 인식하는 부분을 어떻게 해결 할 것인가?</br> 
+ - RNN의 long term dependency error를 어떻게 해결 할 것인가?</br>
+ - Editdistance를 쓸 때 어떻게 ED의 값을 optimizing 할 것인가?</br>
+ - Edit distance와 RNN에서 hyperameter값이 커 질때 속도문제는 어떻게 해결 할 것인가?</br>
 
 
 ## Contribution </br>
