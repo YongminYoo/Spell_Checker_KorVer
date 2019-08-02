@@ -39,18 +39,18 @@ If you have any questions, please contact me here. (yoong952@gmail.com) </br>
 
 ## ● Evaluation</br>
 #### Evaluation.py</br>
-5-1. Make training set (90%) , test set(10%) randomly. </br>
+5-1. Make training set (80%) , validation set(10%) , test set(10%) randomly. </br>
 5-2. Calculate precision , recall value. </br>
 5-3. Finally, calculate F1 score. </br>
 
 
 # Result </br>
-Our method showed an F1 score of 93.6%. </br>
+제 방법은 93.6%의 정확도를 가집니다. </br>
 Future studies </br>
-1) How to deal with actual words that are not in the dictionary?</br> 
-2) How to overcome RNN series long term dependency error?</br>
-3) When using Edit distance, what is the most optimized ED number?</br>
-4) How to solve speed problem?</br>
+1) 실제로 존재하는 단어지만 사전에 등록되지 않은 단어라 오타라고 인식하는 부분을 어떻게 해결 할 것인가?</br> 
+2) RNN의 long term dependency error를 어떻게 해결 할 것인가?</br>
+3) Editdistance를 쓸 때 어떻게 ED의 값을 optimizing 할 것인가?</br>
+4) Edit distance와 RNN에서 hyperameter값이 커 질때 속도문제는 어떻게 해결 할 것인가?</br>
 
 
 ## Contribution </br>
