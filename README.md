@@ -4,7 +4,9 @@ Korean Spell Correction program made by YongminYoo who work as Korean NLP resear
 
 # Overview </br>
 Based on Peter Norvig's Edit Distance idea and idea of RNN series to figure out the context and pick the closest query. </br>
-This spell checker module is Korean Language Version.</br>
+This spell checker module is Korean Language Version made by YongminYoo.</br>
+If you have any questions, please contact me here. (yoong952@gmail.com) </br>
+
 
 # Contents </br>
 
