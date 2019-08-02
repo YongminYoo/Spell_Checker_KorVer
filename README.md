@@ -3,7 +3,7 @@ Korean Spell Correction program made by YongminYoo who work as Korean NLP resear
 
 
 # Overview </br>
-Based on Peter Norvig's Edit Distance idea and idea of RNN series to figure out the context and pick the closest answer. </br>
+Based on Peter Norvig's Edit Distance idea and idea of RNN series to figure out the context and pick the closest query. </br>
 This spell checker module is Korean Language Version.</br>
 
 # Contents </br>
