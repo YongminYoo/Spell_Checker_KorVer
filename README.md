@@ -36,12 +36,14 @@ If you have any questions, please contact me here. (yoong952@gmail.com) </br>
 (I will try to find which ED score is effective with optimizing algorithm , It will be included in the next research topic.) </br>
 4-3. The context is identified using the RNN sequence algorithm, and the most appropriate word among the candidate words is selected as the correct word.</br>
 
+### 5. Change incorrect term to correct word</br>
+5-1. We find incorrect word's candidate term. We choose appropriate term using Word2vec or ElMo 
 
 ## ● Evaluation</br>
 #### Evaluation.py</br>
-5-1. Make training set (80%) , validation set(10%) , test set(10%) randomly. </br>
-5-2. Calculate precision , recall value. </br>
-5-3. Finally, calculate F1 score. </br>
+6-1. Make training set (80%) , validation set(10%) , test set(10%) randomly. </br>
+6-2. Calculate precision , recall value. </br>
+6-3. Finally, calculate F1 score. </br>
 
 
 # Result </br>
